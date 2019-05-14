@@ -31,3 +31,12 @@ Control-click on a line to find the steps definition, the glue code.
 
 This kata is based on the GildedRose kata by Terry Hughes. 
 See end of the [Requirements document](Requirements.md) for more info.
+
+# To do
+- [ ] Derive scope from goals
+- [ ] Specify collaboratively
+- [ ] Illustrate using examples
+- [ ] Refine specifications
+- [ ] Automate validation without changing specifications
+- [ ] Validate frequently
+- [ ] Evolve a documentation system
